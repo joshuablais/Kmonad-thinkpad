@@ -44,9 +44,9 @@
        f1   f2   f3   f4   f5   f6   f7   f8   f9   f10  f11   f12      end  pgdn
   grv  -    -    -    -    -    -    -    -    -    -    -     =    bspc
   tab  !    -    {    }    |    +    7    8    9    *    [     ]    \
-  caps -    -    -    -    `    -    4    5    6    :    ;          ret
+  caps -    -    (    )    `    -    4    5    6    :    ;          ret
   lsft %    ^    [    ]    ~    =    1    2    3    /               rsft
-  wkup lctl lmet lalt           spc            ralt sys  rctl  back up   fwd
+  wkup lctl lmet lalt           spc            0 sys  rctl  back up   fwd
                                                                left down rght
 )
 
